@@ -3,7 +3,12 @@ BUILT A RECOMMENDATION SYSTEM USING JAVA AND LIBRARIES LIKE APACHE MAHOUT TO SUG
 DELIVERABLE: A JAVA PROGRAM WITH A WORKING RECOMMENDATION ENGINE AND SAMPLE DATA.
 Desc : We calculate average ratings for items not rated by the target user Then recommend those items with the highest estimated ratings
 
-DETAILS :
+# DETAILS :
+COMPANY NAME : CODETECH IT SOLUTIONS 
+NAME : PAYAL RAMESH BHISE 
+INTERN ID : CT04DK962 
+DOMAIN : JAVA PROGRAMMING 
+DURATION : 4 WEEKS
 
 # Oerview :
 Type: User-based recommendation system
